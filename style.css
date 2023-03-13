@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    position: relative;
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    margin-right: 5%;
+}
